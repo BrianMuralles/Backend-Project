@@ -1,0 +1,30 @@
+Purpose statement:
+    The reason I am making this app is to make online shopping easier and more reliable.
+    Considering the time of the year many people are trying to get gifts for people they care for but cant find what they want to get them or even when they find something they dont trust it will be a good quality product and will be a scam.
+    The app is being made to helpe people with online shopping.
+    People who like shopping should be using this product to help work together as a group.
+
+Ideas:
+    1. Adventure game
+        Adventure game where a player needs to go around completing puzzles
+        As the player completes more puzzles it gets harder and harder.
+        They will collect puzzle pieces per sections  of the game completed.
+        They will also get talents and be able to purchase upgrades.
+        There will be a underlying story where the person is confused who they are and where they are but over time they will slowly remember more and more of what has happened to them.
+        At the end they will have a choice but to remember there past life or to continue the cycle they are in and forget everything again.
+
+    2. Yapper Tracker
+        An app that will track the amount of times you start yapping through out the day.
+        This is to help people from yapping so much.
+        It will use your mic and track you talking throughtout the day.
+        It will show it per second basis.
+    
+    3. Social media app x content reviewer platform
+        People will be able to post content online.
+        Customize there profile so they can express themselves.
+        Review content online.
+        Rate products from posted online.
+        Show people stuff they like
+        Add people and follow people
+
+f

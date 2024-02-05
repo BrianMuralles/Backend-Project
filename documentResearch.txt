@@ -1,0 +1,21 @@
+Person 1:
+    Easy to use
+    Straight forward
+    Intutive UI
+    Simple to use
+    Consistencey
+Person 2:
+    Entertainig
+    Distraction
+    Sharing
+    Empathy
+    UI
+    Easy to share
+Person 3:
+    System to encourage conenction
+    Emotes
+    Ability to express yourself using images/gifs/etc
+    Simple but complex
+        Lots of choices for cusomization options
+Person 4
+    Entertainig content
